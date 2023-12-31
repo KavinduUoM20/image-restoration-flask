@@ -25,6 +25,7 @@ Next install the required packages.
 ```bash
   pip install -r requirements.txt
 ``` 
+Create a 'static' folder in the root directory.
 Run the app
 
 ```bash
